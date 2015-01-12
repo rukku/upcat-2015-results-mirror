@@ -1,0 +1,47 @@
+body {font-family:arial;font-size:17px;cursor:default;color:555555}
+
+
+td {font-family:arial;font-size:12px;cursor:default;color:555555}
+
+a {color:maroon;text-decoration:none;font-size:12px}
+
+a:hover {color:green;text-decoration:none}
+
+input {border-width:1;font-family:arial;font-size:12px;padding:2px;height:21px;border-color:CCCCCC;border-style:solid;background-color:F9F9F9;color:999999}
+
+select {border-width:1;font-family:arial;font-size:12px;padding:2px;border-color:CCCCCC;border-style:solid;background-color:F9F9F9;color:999999}
+
+table.printable {
+	border-width: 1px 1px 1px 1px;
+	border-spacing: 0px;
+	border-style: none none none none;
+	border-color: gray gray gray gray;
+	border-collapse: collapse;
+	background-color: white;
+}
+table.printable th {
+	border-width: 1px 1px 1px 1px;
+	padding: 3px 3px 3px 3px;
+	border-style: solid solid solid solid;
+	border-color: gray gray gray gray;
+	background-color: white;
+	-moz-border-radius: 0px 0px 0px 0px;
+	font-family:arial;font-size:12px;cursor:default;color:maroon
+}
+table.printable td {
+	border-width: 1px 1px 1px 1px;
+	padding: 3px 5px 3px 5px;
+	border-style: solid solid solid solid;
+	border-color: gray gray gray gray;
+	background-color: white;
+	-moz-border-radius: 0px 0px 0px 0px;
+	font-family:arial;font-size:11px;cursor:default;color:000000
+}
+
+.breadcrumbs {
+	text-align:left;
+	font-family:arial;
+	font-size:12px;
+	cursor:default;
+	color:555555;
+}
